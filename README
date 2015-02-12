@@ -17,10 +17,6 @@ UTILITIES
   mongofiles        - Utility for putting and getting files from MongoFS GridFS
   mongostat         - Show performance statistics
 
-BUILDING
-
-  See docs/building.md, also www.MongoFS.org search for "Building".
-
 RUNNING
 
   For command line options invoke:
@@ -36,10 +32,6 @@ RUNNING
     $ ./mongo 
     > help
 
-DRIVERS
-
-  Client drivers for most programming languages are available at MongoFS.org.  Use the 
-  shell ("mongo") for administrative tasks.
 
 PACKAGING
 
